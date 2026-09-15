@@ -32,11 +32,11 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Operation Fast Title
+        title: Rapid Product Description 
         quote: >
           Turning around 4,000 production descriptions in 36 hours
         description: | # this will include new lines to allow paragraphs           
-        Company CEO wanted to implement a new product labeling practice across multiple brick and mortar locations. The syste[...]
+        Company CEO wanted to implement a new product labeling practice across multiple brick and mortar locations. The system proved inoperable in its present state.  I used AI to write a Python script to do what was not possible manually for our deadline, and made sure the new system could be dynamic and evolve so it could be built on into the future.
 
           Description about the work on/with the project
   - title: Experience
@@ -46,11 +46,10 @@ content:
         title: Cask
         sub_title: General Manager
         caption: October 2022 -  November 2025
-        link: Link to company (optional)
         quote: >
           A premier retailer of speciality spirits serving the San Francisco Bay Market
         description: | # this will include new lines to allow paragraphs          
-          Lead daily operations for a specialty retail shop and bar. Manage a six-person team, 180+ vendors, and 4,300+ product [...]
+          Lead daily operations for a specialty retail shop and bar. Manage a six-person team, 180+ vendors, and a rotating inventory in the hundreds of thousands of dollars, and millions in sales.
 
   - title: Education
     layout: list
