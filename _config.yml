@@ -27,13 +27,13 @@ linkedin_username: raulbanks
 # about_title: About Me (Use this to override about section title)
 about_profile_image:/images/crbmtn.jpg
 about_content: | # this will include new lines to allow paragraphs
-  American [Venezuelan](https://en.wikipedia.org/wiki/Teque%C3%B1o) in the MUSPP program at SUTD.  
+  [American Venezuelan]() in the MUSPP program at SUTD.  
   <mark>Interested in infrastructure resilience.</mark>  
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
+    - <a href="https://en.wikipedia.org/wiki/Teque%C3%B1o">Links</a>
     - Images ![alt text](/images/mtnsheep.jpg "Trees")
 
 content:
