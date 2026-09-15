@@ -32,7 +32,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   Below is:
     - [A Link to an iconic Venezulean treat](<a href="https://en.wikipedia.org/wiki/Teque%C3%B1o">Links</a>)
-    - A Photo I took hiking in France in the morning when the sheep were passing by ![alt text](/images/mtnsheep.jpg "Trees")
+    - A Photo I took hiking in France in the morning when the sheep were passing by 
+    ![alt text](/images/mtnsheep.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
