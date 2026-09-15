@@ -30,11 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   [American Venezuelan](images/CANAIMA.jpg) in the MUSPP program at SUTD.  
   <mark>Interested in infrastructure resilience.</mark>  
 
-  Below is:
-    - [A Link to an iconic Venezulean treat]("https://en.wikipedia.org/wiki/Teque%C3%B1o">L)
-    - A Photo I took hiking in France in the morning when the sheep were passing by. 
-      
-      ![alt text](/images/mtnsheep.jpg)
+
 
 content:
   - title: Projects # Title for the section
@@ -62,19 +58,22 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: College of Charleston
+        sub_title: BA Political Science
+        caption: 2011
         quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          BA in Political Science, with a focus on International Relations
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      My spouse and I moved to Singapore in 2025 to follow a professional opportunity.  I am taking this opportunity to learn about the Urban Planning practices utilized here, especially as it pertains to urban reiliency, in hopes of applying those lessons to professional settings.
+      My academics have focused on Social Sciences, and my professional arc has emphasized operations, building and growing teams, managing director and vendor relationships, and always viewing situations through the lense of fincancially sustainable choices coupled with what is in the best interest of end users, employees, and the business as an institution.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    - [A Link to an iconic Venezulean treat]("https://en.wikipedia.org/wiki/Teque%C3%B1o">L)
+    - A Photo I took hiking in France in the morning when the sheep were passing by. 
+      
+      ![alt text](/images/mtnsheep.jpg)
 
 # Footer
 footer_show_references: true
