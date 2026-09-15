@@ -45,10 +45,10 @@ content:
         title: Operation Fast Title
           
         quote: >
-          Short overview of the project (optional)
+          Turning around 4,000 production descriptions in 36 hours
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
+          Company CEO wanted to implement a new product labeling practice across multiple brick and mortar locations. The system had been tested in a smaller location before the decision was made to go live.  Upon receiving the directive, it was apparent that the system had not been thoroughly vetted, as the individual previously running the program had been manually creating product descriptions, and our ERP did not allow for the exporting of product descriptions, due to a poor design choice.  Using ChatGPT, I built a series of Python scripts that enabled us to create and edit the necessary product descriptions, in a time frame where doing so manually would have been impossible.  Since product offerings evolve, and to prevent repeating this situation
+  - title: Experience, I created a system where this library of product descriptions could be managed and made dynmaic, reflecting qualititative and quantative changes as needed.
     layout: list
     content:
       - layout: right
