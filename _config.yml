@@ -24,13 +24,6 @@ about_content: | # this will include new lines to allow paragraphs
   [American Venezuelan](/images/CANAIMA.jpg) currently in the MUSPP program at SUTD.
   <mark>Interested in infrastructure resilience.</mark>
 
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="https://google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -40,18 +33,10 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Operation Fast Title
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Turning around 4,000 production descriptions in 36 hours
-        description: | # this will include new lines to allow paragraphs           Company CEO wanted to implement a new product labeling practice across multiple brick and mortar locations. The syste[...]
+        description: | # this will include new lines to allow paragraphs           
+        Company CEO wanted to implement a new product labeling practice across multiple brick and mortar locations. The syste[...]
 
           Description about the work on/with the project
   - title: Experience
@@ -63,10 +48,10 @@ content:
         caption: October 2022 -  November 2025
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs          Lead daily operations for a specialty retail shop and bar. Manage a six-person team, 180+ vendors, and 4,300+ product [...]
+          A premier retailer of speciality spirits serving the San Francisco Bay Market
+        description: | # this will include new lines to allow paragraphs          
+          Lead daily operations for a specialty retail shop and bar. Manage a six-person team, 180+ vendors, and 4,300+ product [...]
 
-          Description of role
   - title: Education
     layout: list
     content:
@@ -75,7 +60,6 @@ content:
         sub_title: BA Political Science
         caption: 2011
         quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           BA in Political Science, with a focus on International Relations
   - title: A Little More About Me
@@ -90,7 +74,6 @@ content:
         
         ![alt text](/images/mtnsheep.jpg)
 
-        Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
