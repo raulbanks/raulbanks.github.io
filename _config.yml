@@ -7,8 +7,9 @@ version: 2
 
 # Personal info
 name: Christopher Banks
-title: General Manager
-email: raulbanks@gmail.com
+title: MUSPP Candidate 2027
+email: christopher_banks@mymail.sutd.edu.sg
+
 # email_title: Email (Email title override)
 phone: 1-202-555-5555
 # phone_title: Phone (Phone title override)
@@ -22,7 +23,6 @@ darkmode: false
 linkedin_username: raulbanks
 
 
-# Additional icon links
 additional_links:
 - title: Link name
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -41,7 +41,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  American [Venezuelan](https://en.wikipedia.org/wiki/Teque%C3%B1o) in the MUSPP program at SUTD.  
+  <mark>Interested in infrastructure resilience.</mark>  
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
