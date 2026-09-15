@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: raulbanks/raulbanks.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
+    - <a href="https://google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
@@ -79,16 +79,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           BA in Political Science, with a focus on International Relations
   - title: A Little More About Me
-    layout: My spouse and I moved to Singapore in 2025 to follow a professional opportunity.  I am taking this opportunity to learn about the Urban Planning practices utilized here, especially as it p[...]
-      My academics have focused on Social Sciences, and my professional arc has emphasized operations, building and growing teams, managing director and vendor relationships, and always viewing situat[...]
-
+    layout: text
     content: | # this will include new lines to allow paragraphs
-    - [A Link to an iconic Venezulean treat]("https://en.wikipedia.org/wiki/Teque%C3%B1o">L)
-    - A Photo I took hiking in France in the morning when the sheep were passing by. 
-      
-      ![alt text](/images/mtnsheep.jpg)
+      My spouse and I moved to Singapore in 2025 to follow a professional opportunity. I am taking this opportunity to learn about the Urban Planning practices utilized here, especially as it pertains to infrastructure resilience.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      My academics have focused on Social Sciences, and my professional arc has emphasized operations, building and growing teams, managing director and vendor relationships, and always viewing situations from a systems perspective.
+
+      - [A Link to an iconic Venezulean treat](https://en.wikipedia.org/wiki/Teque%C3%B1o)
+      - A Photo I took hiking in France in the morning when the sheep were passing by. 
+        
+        ![alt text](/images/mtnsheep.jpg)
+
+        Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
