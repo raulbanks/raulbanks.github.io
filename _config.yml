@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Interested in infrastructure resilience.</mark>  
 
   Below is:
-    - [A Link to an iconic Venezulean treat](<a href="https://en.wikipedia.org/wiki/Teque%C3%B1o">Links</a>)
+    - [A Link to an iconic Venezulean treat]("https://en.wikipedia.org/wiki/Teque%C3%B1o">L)
     - A Photo I took hiking in France in the morning when the sheep were passing by 
     ![alt text](/images/mtnsheep.jpg "Trees")
 
@@ -42,16 +42,8 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Operation Fast Title
+          
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
